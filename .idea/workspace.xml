@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c4be38b-8e7b-4d50-80aa-ba97a88a01b3" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;PhpstormProjects/homescreen/css/page-scroll.css&#10;#&#9;PhpstormProjects/homescreen/css/style.css&#10;#&#9;PhpstormProjects/homescreen/img/svg/Alba.svg&#10;#&#9;PhpstormProjects/homescreen/index.php&#10;#&#9;PhpstormProjects/homescreen/js/swap.js&#10;#&#9;PhpstormProjects/homescreen/php/common.php&#10;#&#9;css/foundation.css&#10;#&#9;css/foundation.min.css&#10;#&#9;css/normalize.css&#10;#&#9;humans.txt&#10;#&#9;img/.gitkeep&#10;#&#9;img/ColourJS.svg&#10;#&#9;img/colourwheel.svg&#10;#&#9;js/angular/angular.min.js&#10;#&#9;js/foundation.min.js&#10;#&#9;js/foundation/foundation.abide.js&#10;#&#9;js/foundation/foundation.accordion.js&#10;#&#9;js/foundation/foundation.alert.js&#10;#&#9;js/foundation/foundation.clearing.js&#10;#&#9;js/foundation/foundation.dropdown.js&#10;#&#9;js/foundation/foundation.equalizer.js&#10;#&#9;js/foundation/foundation.interchange.js&#10;#&#9;js/foundation/foundation.joyride.js&#10;#&#9;js/foundation/foundation.js&#10;#&#9;js/foundation/foundation.magellan.js&#10;#&#9;js/foundation/foundation.offcanvas.js&#10;#&#9;js/foundation/foundation.orbit.js&#10;#&#9;js/foundation/foundation.reveal.js&#10;#&#9;js/foundation/foundation.slider.js&#10;#&#9;js/foundation/foundation.tab.js&#10;#&#9;js/foundation/foundation.tooltip.js&#10;#&#9;js/foundation/foundation.topbar.js&#10;#&#9;js/vendor/fastclick.js&#10;#&#9;js/vendor/jquery.cookie.js&#10;#&#9;js/vendor/jquery.js&#10;#&#9;js/vendor/modernizr.js&#10;#&#9;js/vendor/placeholder.js&#10;#&#9;robots.txt&#10;">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/img/ColourJS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index1.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/about.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/installing.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/js/colour.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/js/controller.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/js/installing.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/plans.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/homescreen.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e08e3c7d6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e08e3cf03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e08f3e81f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e09844168.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e09844400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0984467d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0bf54cfd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0bf54fb7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0bf55321.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0bf55683.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0bf55989.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0bf55ca2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0ca56571.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0ca566eb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0ca56919.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e0e2b5839.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e148a2806.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e149a4402.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e149a4cc8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e168b84e3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e196d50a7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e197d7034.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e236506f0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/images/57d0e23751a07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/jpeg/bio.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/jpeg/desert.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/jpeg/finance.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/png/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/png/whale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/svg/face.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/svg/loading.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/img/svg/money.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/canvas/colours.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/canvas/myScript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/canvas/radius.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/canvas/save.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/scroll/jquery-2.1.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/scroll/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/scroll/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/js/scroll/velocity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/php/download.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/php/save.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../homescreen/video/JoseAlba.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../homescreen/css/page-scroll.css" afterPath="$PROJECT_DIR$/../homescreen/css/page-scroll.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../homescreen/css/style.css" afterPath="$PROJECT_DIR$/../homescreen/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../homescreen/img/svg/Alba.svg" afterPath="$PROJECT_DIR$/../homescreen/img/svg/Alba.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../homescreen/index.php" afterPath="$PROJECT_DIR$/../homescreen/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../homescreen/js/swap.js" afterPath="$PROJECT_DIR$/../homescreen/js/swap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../homescreen/php/common.php" afterPath="$PROJECT_DIR$/../homescreen/php/common.php" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/css/foundation.css" afterPath="$USER_HOME$/css/foundation.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/css/foundation.min.css" afterPath="$USER_HOME$/css/foundation.min.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/css/normalize.css" afterPath="$USER_HOME$/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/humans.txt" afterPath="$USER_HOME$/humans.txt" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/img/.gitkeep" afterPath="$USER_HOME$/img/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/img/ColourJS.svg" afterPath="$USER_HOME$/img/ColourJS.svg" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/img/colourwheel.svg" afterPath="$USER_HOME$/img/colourwheel.svg" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/angular/angular.min.js" afterPath="$USER_HOME$/js/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation.min.js" afterPath="$USER_HOME$/js/foundation.min.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.abide.js" afterPath="$USER_HOME$/js/foundation/foundation.abide.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.accordion.js" afterPath="$USER_HOME$/js/foundation/foundation.accordion.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.alert.js" afterPath="$USER_HOME$/js/foundation/foundation.alert.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.clearing.js" afterPath="$USER_HOME$/js/foundation/foundation.clearing.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.dropdown.js" afterPath="$USER_HOME$/js/foundation/foundation.dropdown.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.equalizer.js" afterPath="$USER_HOME$/js/foundation/foundation.equalizer.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.interchange.js" afterPath="$USER_HOME$/js/foundation/foundation.interchange.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.joyride.js" afterPath="$USER_HOME$/js/foundation/foundation.joyride.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.js" afterPath="$USER_HOME$/js/foundation/foundation.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.magellan.js" afterPath="$USER_HOME$/js/foundation/foundation.magellan.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.offcanvas.js" afterPath="$USER_HOME$/js/foundation/foundation.offcanvas.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.orbit.js" afterPath="$USER_HOME$/js/foundation/foundation.orbit.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.reveal.js" afterPath="$USER_HOME$/js/foundation/foundation.reveal.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.slider.js" afterPath="$USER_HOME$/js/foundation/foundation.slider.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.tab.js" afterPath="$USER_HOME$/js/foundation/foundation.tab.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.tooltip.js" afterPath="$USER_HOME$/js/foundation/foundation.tooltip.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/foundation/foundation.topbar.js" afterPath="$USER_HOME$/js/foundation/foundation.topbar.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/vendor/fastclick.js" afterPath="$USER_HOME$/js/vendor/fastclick.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/vendor/jquery.cookie.js" afterPath="$USER_HOME$/js/vendor/jquery.cookie.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/vendor/jquery.js" afterPath="$USER_HOME$/js/vendor/jquery.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/vendor/modernizr.js" afterPath="$USER_HOME$/js/vendor/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/js/vendor/placeholder.js" afterPath="$USER_HOME$/js/vendor/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/robots.txt" afterPath="$USER_HOME$/robots.txt" />
+    </list>
+    <ignored path="untitled1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/effects/chrome_symbol.js" />
+        <option value="$PROJECT_DIR$/index1.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6.15" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Ini Files</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrollmagic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uncompressed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scrollmagic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="effects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.splitter.proportion" value="0.253861" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c4be38b-8e7b-4d50-80aa-ba97a88a01b3" name="Default" comment="" />
+      <created>1506698150135</created>
+      <option name="number" value="Default" />
+      <updated>1506698150135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;PhpstormProjects/homescreen/css/page-scroll.css&#10;#&#9;PhpstormProjects/homescreen/css/style.css&#10;#&#9;PhpstormProjects/homescreen/img/svg/Alba.svg&#10;#&#9;PhpstormProjects/homescreen/index.php&#10;#&#9;PhpstormProjects/homescreen/js/swap.js&#10;#&#9;PhpstormProjects/homescreen/php/common.php&#10;#&#9;css/foundation.css&#10;#&#9;css/foundation.min.css&#10;#&#9;css/normalize.css&#10;#&#9;humans.txt&#10;#&#9;img/.gitkeep&#10;#&#9;img/ColourJS.svg&#10;#&#9;img/colourwheel.svg&#10;#&#9;js/angular/angular.min.js&#10;#&#9;js/foundation.min.js&#10;#&#9;js/foundation/foundation.abide.js&#10;#&#9;js/foundation/foundation.accordion.js&#10;#&#9;js/foundation/foundation.alert.js&#10;#&#9;js/foundation/foundation.clearing.js&#10;#&#9;js/foundation/foundation.dropdown.js&#10;#&#9;js/foundation/foundation.equalizer.js&#10;#&#9;js/foundation/foundation.interchange.js&#10;#&#9;js/foundation/foundation.joyride.js&#10;#&#9;js/foundation/foundation.js&#10;#&#9;js/foundation/foundation.magellan.js&#10;#&#9;js/foundation/foundation.offcanvas.js&#10;#&#9;js/foundation/foundation.orbit.js&#10;#&#9;js/foundation/foundation.reveal.js&#10;#&#9;js/foundation/foundation.slider.js&#10;#&#9;js/foundation/foundation.tab.js&#10;#&#9;js/foundation/foundation.tooltip.js&#10;#&#9;js/foundation/foundation.topbar.js&#10;#&#9;js/vendor/fastclick.js&#10;#&#9;js/vendor/jquery.cookie.js&#10;#&#9;js/vendor/jquery.js&#10;#&#9;js/vendor/modernizr.js&#10;#&#9;js/vendor/placeholder.js&#10;#&#9;robots.txt&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;PhpstormProjects/homescreen/css/page-scroll.css&#10;#&#9;PhpstormProjects/homescreen/css/style.css&#10;#&#9;PhpstormProjects/homescreen/img/svg/Alba.svg&#10;#&#9;PhpstormProjects/homescreen/index.php&#10;#&#9;PhpstormProjects/homescreen/js/swap.js&#10;#&#9;PhpstormProjects/homescreen/php/common.php&#10;#&#9;css/foundation.css&#10;#&#9;css/foundation.min.css&#10;#&#9;css/normalize.css&#10;#&#9;humans.txt&#10;#&#9;img/.gitkeep&#10;#&#9;img/ColourJS.svg&#10;#&#9;img/colourwheel.svg&#10;#&#9;js/angular/angular.min.js&#10;#&#9;js/foundation.min.js&#10;#&#9;js/foundation/foundation.abide.js&#10;#&#9;js/foundation/foundation.accordion.js&#10;#&#9;js/foundation/foundation.alert.js&#10;#&#9;js/foundation/foundation.clearing.js&#10;#&#9;js/foundation/foundation.dropdown.js&#10;#&#9;js/foundation/foundation.equalizer.js&#10;#&#9;js/foundation/foundation.interchange.js&#10;#&#9;js/foundation/foundation.joyride.js&#10;#&#9;js/foundation/foundation.js&#10;#&#9;js/foundation/foundation.magellan.js&#10;#&#9;js/foundation/foundation.offcanvas.js&#10;#&#9;js/foundation/foundation.orbit.js&#10;#&#9;js/foundation/foundation.reveal.js&#10;#&#9;js/foundation/foundation.slider.js&#10;#&#9;js/foundation/foundation.tab.js&#10;#&#9;js/foundation/foundation.tooltip.js&#10;#&#9;js/foundation/foundation.topbar.js&#10;#&#9;js/vendor/fastclick.js&#10;#&#9;js/vendor/jquery.cookie.js&#10;#&#9;js/vendor/jquery.js&#10;#&#9;js/vendor/modernizr.js&#10;#&#9;js/vendor/placeholder.js&#10;#&#9;robots.txt&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrollmagic/minified/plugins/animation.gsap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrollmagic/minified/plugins/animation.gsap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gsap/minified/utils/Draggable.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrollmagic/minified/plugins/animation.gsap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/work.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/solarized-light.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/prism.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.318584">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.513274">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hover_effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.783411">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/foundation.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#31862#32187#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/effects/chrome_symbol.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.4444447">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4117646">
+          <caret line="208" column="13" selection-start-line="208" selection-start-column="13" selection-end-line="208" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

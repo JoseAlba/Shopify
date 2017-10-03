@@ -1,0 +1,183 @@
+/*Home*/
+.social{
+    width: 20px;
+    height: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/*General*/
+body, body *{
+    font-family: "Courier New", Courier, monospace;
+}
+
+/* CSS */
+.vidContain {
+    width:300px; height:200px;
+    position:relative;
+    display:inline-block;
+    margin:10px;
+}
+.vid {
+    position: absolute;
+    top: 0; left:0;
+    width: 100%; height: 100%;
+    z-index: -1;
+}
+.content {
+    position:absolute;
+    top:0; left:0;
+    background: black;
+    color:white;
+}
+
+
+
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container .filter {
+    z-index: 100;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.video-container .title-container {
+    z-index: 1000;
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+.video-container .description .inner {
+    font-size: 1em;
+    width: 45%;
+    margin: 0 auto;
+}
+.video-container .link {
+    position: absolute;
+    bottom: 3em;
+    width: 100%;
+    text-align: center;
+    z-index: 1001;
+    font-size: 2em;
+    color: #fff;
+}
+.video-container .link a {
+    color: #fff;
+}
+
+.video-container video.fillWidth {
+    width: 100%;
+}
+
+.transparent {
+    background:#7f7f7f;
+    background:rgba(0,0,0,0.5);
+}
+
+
+
+input[type=submit]{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.image-spacing-0 li{
+    margin: 0;
+    padding: 0;
+}
+
+.slide a img {
+    -webkit-filter: grayscale(1);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.slide a img:hover {
+    -webkit-filter: grayscale(0);
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+
+.no-margin{
+    margin: 0;
+}
+
+canvas{
+    z-index: -1;
+}
+.infront{
+    z-index: 1;
+}
+
+#background {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%; height: 100%;
+    z-index: -1;
+}
+
+.picture {
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 auto 30px;
+    width: 180px;
+    height: 180px;
+    border: 3px solid #fff;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+}
+.picture img {
+    display: block;
+    height: 100%;
+}
+
+.dark-blue{
+    background: -webkit-linear-gradient(#465f79, #202d35);
+    background: -moz-linear-gradient(#465f79, #202d35);
+    background: -o-linear-gradient(#465f79, #202d35);
+    background: -ms-linear-gradient(#465f79, #202d35);
+    background: linear-gradient(#465f79, #202d35); width: 100%; height: 100%;
+}
+.white{
+    background: white;
+}
+
